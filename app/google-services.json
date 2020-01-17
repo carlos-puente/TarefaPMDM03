@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "314630158709",
+    "firebase_url": "https://pmdmbd.firebaseio.com",
+    "project_id": "pmdmbd",
+    "storage_bucket": "pmdmbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314630158709:android:92433b9acbbcb3c279bb3c",
+        "android_client_info": {
+          "package_name": "eu.carlosjai.me.pmdm04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": CLIENT_ID,
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": API_KEY
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": CLIENT_ID,
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314630158709:android:6e735895d0fea98779bb3c",
+        "android_client_info": {
+          "package_name": "me.carlosjai.tendavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314630158709-vck53edrt789vlao6npuedj4prg8h0oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.carlosjai.tendavirtual",
+            "certificate_hash": "02ba14f8f2f89b3bf1d69e3cba5ac03c2b5bf83b"
+          }
+        },
+        {
+          "client_id": CLIENT_ID,
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": API_KEY
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": CLIENT_ID,
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

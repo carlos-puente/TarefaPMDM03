@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Tenda Virtual</string>
+    <!-- Relacionados có login -->
+    <string name="error_email">Email non válido</string>
+    <string name="error_contrasinal">Contrasinal non válida (Mín. 6 caracteres)</string>
+    <string name="error_login">"Erro na autenticación, as credenciais non son válidas"</string>
+    <string name="acceder">acceder</string>
+    <string name="contrasinal">contrasinal</string>
+    <string name="usuario">usuario</string>
+    <string name="cliente">cliente</string>
+    <string name="administrador">administrador</string>
+    <string name="avatar">avatar</string>
+
+    <!-- Relacionados co usuario activity -->
+    <string name="boton_pedido">Facer pedido</string>
+    <string name="boton_tramite">Ver pedidos en trámite</string>
+    <string name="boton_compras">Ver compras realizadas</string>
+    <string name="boton_sair">Saír</string>
+    <string name="seguinte">seguinte</string>
+    <string name="rua">Rúa</string>
+    <string name="direccion">Dirección (rúa, número, piso...)</string>
+    <string name="cidade">Cidade</string>
+    <string name="codpostal">Código Postal</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="pedidos_tramite">Ver pedidos en trámite</string>
+    <string name="compras_realizadas">Ver compras realizadas</string>
+    <string name="rexistrarse">rexistrarse</string>
+    <string name="nome">nome</string>
+    <string name="titulo_rexistro">Rexistrar un novo usuario</string>
+    <string name="apelidos">apelidos</string>
+    <string name="email">email</string>
+    <string name="repite_email">repite email</string>
+    <string name="repite_contrasinal">repite contrasinal</string>
+    <string name="atras">atrás</string>
+    <string name="boton_pedido_aceptado">Ver pedidos aceptados</string>
+    <string name="boton_rexeitados">Ver pedidos rexeitados</string>
+
+    <string-array name="categorias">
+        <item>Informática</item>
+        <item>Electrónica</item>
+        <item>Móbiles</item>
+    </string-array>
+
+    <string-array name="categorias_informática">
+        <item>"PC de Sobremesa</item>
+        <item>Portátil</item>
+        <item>Monitor</item>
+    </string-array>
+
+
+    <string-array name="categorias_electrónica">
+        <item>Televisión</item>
+        <item>DVD</item>
+    </string-array>
+
+    <string-array name="categorias_mobil">
+        <item>Pixel</item>
+        <item>Galaxy</item>
+        <item>Iphone</item>
+        <item>Xiaomi</item>
+    </string-array>
+
+    <string-array name="cantidade">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
